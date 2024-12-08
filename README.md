@@ -1,5 +1,4 @@
-# ECS7024P Coursework 3 - Kasey Purvor 200851709
-##  Stork Numbers & Population Analysis
+#  Stork Numbers & Population Analysis
 
 * Part 0 | Introduction
 * Part 1 | Regression Models
