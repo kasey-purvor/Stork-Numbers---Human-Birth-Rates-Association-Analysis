@@ -1,5 +1,7 @@
 #  Stork Numbers & Population Analysis
 
+## Contents
+
 * Part 0 | Introduction
 * Part 1 | Regression Models
     * Part 1.1 | Model 1 - Storks vs Birth Rate 
