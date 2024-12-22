@@ -23,14 +23,13 @@ This repository contains a Jupyter Notebook exploring the relationship between s
 **Repository Contents:**
 
 * `Notebook.ipynb`: The Jupyter Notebook containing the complete analysis, including data loading, model building, bootstrap implementation, results visualization, and discussion. 
-* `README.md`: An overview of the project, its objectives, and key findings.
+* `modified_stork_data.csv`: The data for the analysis.
 * `report.md`: The full report in markdown format for viewing in github.
 
 **Instructions for Running the Notebook:**
 
-1. Ensure you have the necessary Python libraries installed, including pandas, NumPy, scikit-learn, matplotlib, and seaborn.
 2. Clone the repository to your local machine.
-3. Open the `ECS7024P_Coursework_3.ipynb` file in a Jupyter Notebook environment.
+3. Open the `Notebook.ipynb` file in a Jupyter Notebook environment.
 4. Execute the cells sequentially to reproduce the analysis and visualizations.
 
 This project serves as a demonstration of statistical modeling techniques and critical evaluation in data analysis, emphasizing the importance of considering alternative explanations and the limitations of correlational findings. 
